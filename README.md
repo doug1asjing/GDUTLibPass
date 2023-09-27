@@ -1,0 +1,2 @@
+# GDUTLibPass
+用于生成广东工业大学图书馆进馆二维码的Android应用
